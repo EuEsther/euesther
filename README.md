@@ -10,9 +10,7 @@
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Sou estudante apaixonada por Análise de Dados. Atualmente, estudo programação com Python, análise exploratória de dados, visualizações e ferramentas para construção de dashboards interativos.
-
-<br>
+<h4>Sou estudante apaixonada por Análise de Dados. Atualmente, estudo programação com Python, análise exploratória de dados, visualizações e ferramentas para construção de dashboards interativos.</h4>
 
 <h2 align="left">Tecnologias e Ferramentas</h2>
 
