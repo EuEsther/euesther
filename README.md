@@ -4,11 +4,11 @@
 </a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=30&duration=4000&pause=3000&color=C827C6&center=true&vCenter=true&width=700&height=50&lines=Sou+Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Seja+bem-vindo(a)+ao+meu+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=30&duration=4000&pause=3000&color=9F1F9E&center=true&vCenter=true&width=700&height=50&lines=Sou+Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Seja+bem-vindo(a)+ao+meu+GitHub!" alt="Typing SVG" />
 </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="left">Sou estudante apaixonada por Análise de Dados e estou em constante evolução na área. Atualmente, estudo programação com Python, análise exploratória de dados, visualizações e ferramentas para construção de dashboards interativos.</h3>
 
@@ -65,34 +65,32 @@
 <h2 align="left">Contato</h2>
 
 <br>
+
 <p align="center">Se quiser trocar uma ideia, tirar dúvidas ou sugerir parcerias, me chama por aqui:</p>
 
-###
-
-<br clear="both">
+<br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/estherbpsilva/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="63" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/estherbpsilva/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="63" height="40" alt="instagram logo"  />
-  </a>
-  <a href="mailto:batistaesther135@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="63" height="40" alt="gmail logo"  />
-  </a>
-   <a href="https://discordapp.com/users/519264208412606466" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="63" height="40" alt="discord logo"  />
-  </a>
+  <a href="https://www.linkedin.com/in/estherbpsilva/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="63" height="40" alt="linkedin logo"  /></a>
+    <img width="12" />
+  <a href="https://www.instagram.com/estherbpsilva/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="63" height="40" alt="instagram logo"  /></a>
+    <img width="12" />
+  <a href="mailto:batistaesther135@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="63" height="40" alt="gmail logo"  /></a>
+    <img width="12" />
+  <a href="https://discordapp.com/users/519264208412606466">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="63" height="40" alt="discord logo"  /></a>
 </div>
-<br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EuEsther&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img width="40" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EuEsther&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=EuEsther&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=true&order=1" height="190px" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EuEsther&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="190px" alt="languages graph"  />
 </div>
 
 ###
