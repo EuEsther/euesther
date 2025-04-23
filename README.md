@@ -10,7 +10,7 @@
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="left">Sou estudante apaixonada por Análise de Dados e estou em constante evolução na área. Atualmente, estudo programação com Python, análise exploratória de dados, visualizações e ferramentas para construção de dashboards interativos.</h3>
+Sou estudante apaixonada por Análise de Dados. Atualmente, estudo programação com Python, análise exploratória de dados, visualizações e ferramentas para construção de dashboards interativos.
 
 <br>
 
@@ -72,16 +72,16 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/estherbpsilva/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="63" height="40" alt="linkedin logo"  /></a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="63" height="35" alt="linkedin logo"  /></a>
     <img width="12" />
   <a href="https://www.instagram.com/estherbpsilva/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="63" height="40" alt="instagram logo"  /></a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="63" height="35" alt="instagram logo"  /></a>
     <img width="12" />
   <a href="mailto:batistaesther135@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="63" height="40" alt="gmail logo"  /></a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="63" height="35" alt="gmail logo"  /></a>
     <img width="12" />
   <a href="https://discordapp.com/users/519264208412606466">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="63" height="40" alt="discord logo"  /></a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="63" height="35" alt="discord logo"  /></a>
 </div>
 
 <br>
